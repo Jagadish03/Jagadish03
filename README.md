@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagadish S Munavalli</h1>
 <h3 align="center">A passionate MERN developer, Engineering Graduate from India</h3>
 
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/236x/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.jpg">
+<img align="center" alt="coding" width="400" src="https://pin.it/Vb5igNS">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadish03&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish03" /> </p>
 
