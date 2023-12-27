@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jagadish S Munavalli</h1>
+<h2 align="center">Hi 👋, I'm Jagadish S Munavalli</h2>
 <h3 align="center">A passionate MERN developer, Engineering Graduate from India</h3>
 
 <img align="center" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*gg_xvP24wGGSUqr0eLVTOA.gif">
